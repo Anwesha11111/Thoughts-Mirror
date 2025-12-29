@@ -41,7 +41,7 @@ vercel --prod
 
 📱 Screenshots
 Chat Reframe	Progress Tree	Distortion Heatmap
-<div align="center"> <img src="Thought Mirror/dashboard01.png" width="80%" alt="🌿 Mindful Divider"/>
+<div align="center"> <img src="Thought mirror/dashboard01.png" width="80%" alt="🌿 Mindful Divider"/>
 <img src="Thought mirror/dashboard02.png" width=80%>
 <img src="Thought mirror/dashboard02.png" width=80%>
 <img src="Thought mirror/dashboard03.png" width=80%>
