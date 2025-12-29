@@ -71,5 +71,5 @@ Priority Features:
 ☑️ Journal PDF export
 ☑️ Multi language support
 <div align="center">
-<img src="paragraph-divider-15.png" width=80%></div>
-End
+<img src="Thought mirror/paragraph-divider-15.png" width=80%></div>
+<div align="center">End</div>
